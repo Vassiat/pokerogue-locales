@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-06T03:57:14.563Z",
+  "average": 50.66,
+  "languages": {
+    "en": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "ca": {
+      "average": 2346,
+      "average_percent": 17.3
+    },
+    "da": {
+      "average": 3459,
+      "average_percent": 25.5
+    },
+    "de": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "es-419": {
+      "average": 3712,
+      "average_percent": 27.37
+    },
+    "es-ES": {
+      "average": 12086,
+      "average_percent": 89.11
+    },
+    "eu": {
+      "average": 1273,
+      "average_percent": 9.39
+    },
+    "fr": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "gl": {
+      "average": 1087,
+      "average_percent": 8.01
+    },
+    "he": {
+      "average": 1832,
+      "average_percent": 13.51
+    },
+    "hi": {
+      "average": 2823,
+      "average_percent": 20.81
+    },
+    "id": {
+      "average": 3684,
+      "average_percent": 27.16
+    },
+    "it": {
+      "average": 13491,
+      "average_percent": 99.47
+    },
+    "ja": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "ko": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "nb-NO": {
+      "average": 1120,
+      "average_percent": 8.26
+    },
+    "pl": {
+      "average": 2568,
+      "average_percent": 18.93
+    },
+    "pt-BR": {
+      "average": 13563,
+      "average_percent": 100
+    },
+    "ro": {
+      "average": 1109,
+      "average_percent": 8.18
+    },
+    "ru": {
+      "average": 5352,
+      "average_percent": 39.46
+    },
+    "sv": {
+      "average": 11802,
+      "average_percent": 87.02
+    },
+    "th": {
+      "average": 4055,
+      "average_percent": 29.9
+    },
+    "tl": {
+      "average": 1997,
+      "average_percent": 14.72
+    },
+    "tr": {
+      "average": 3602,
+      "average_percent": 26.56
+    },
+    "uk": {
+      "average": 4673,
+      "average_percent": 34.45
+    },
+    "vi": {
+      "average": 8748,
+      "average_percent": 64.5
+    },
+    "zh-Hans": {
+      "average": 13544,
+      "average_percent": 99.86
+    },
+    "zh-Hant": {
+      "average": 13341,
+      "average_percent": 98.36
+    }
+  }
+}
